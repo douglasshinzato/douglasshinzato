@@ -3,7 +3,7 @@
 - 🎓 Graduated in Law.
 - 🚀 Currently i'm studying at Rocketseat to become a fullstack web developer.
 
-I'm focusing in
+### I'm focusing in
 - 🌎 Front-end Web with JavaScript
 - 📡 Back-end with Node.js
 - 🛠️ Typescript
