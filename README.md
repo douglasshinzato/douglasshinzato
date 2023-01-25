@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Douglas Shinzato <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-<!--
-**douglasshinzato/douglasshinzato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Graduated in Law.
+- 🚀 Currently i'm studying at Rocketseat to become a fullstack web developer.
 
-Here are some ideas to get you started:
+#### I'm focusing in
+- 🌎 Front-end Web with JavaScript
+- 📡 Back-end with Node.js
+- 🛠️ Typescript
+- 🧰 And more...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### 💬 Find me elsewhere
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasshinzato)](https://www.linkedin.com/in/douglasshinzato) 
+[![Gmail Badge](https://img.shields.io/badge/-shinzato.douglas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shinzato.douglas@gmail.com)](mailto:shinzato.douglas@gmail.com)
+
