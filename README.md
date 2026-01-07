@@ -1,4 +1,4 @@
-### Hi, I'm Douglas Shinzato <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+### Hi, I'm Douglas Shinzato.
 
 I am a Law graduate transitioning to Tech, currently pursuing a **Software Engineering degree @ Unigran**.
 
