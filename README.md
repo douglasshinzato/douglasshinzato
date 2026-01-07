@@ -1,12 +1,12 @@
-### Hi, I'm Douglas Shinzato <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+### Hi, I'm Douglas Shinzato
 
 - 🎓 Law Grad & Software Engineering Student @ **Unigran**.
 - 🚀 **Rocketseat** Alumni focused on **Back-End** & **Database Architecture**.
-- 💡 Passionate about clean code and exploring the ecosystem beyond the basics.
+- 💡 I like building robust, well-structured systems and exploring the ecosystem on my own.
 
 ### 🛠️ Main Toolkit
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
