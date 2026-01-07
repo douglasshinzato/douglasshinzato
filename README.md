@@ -5,7 +5,7 @@ I am a Law graduate transitioning to Tech, currently pursuing a **Software Engin
 I'm a Full-Stack developer by training, but my true passion lies in building robust **Back-End** systems and scalable database architectures.
 
 ### 🚀 Core Tech Stack
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
