@@ -1,6 +1,6 @@
 ### Hi, I'm Douglas Shinzato
 
-- 🎓 Law Grad & Software Engineering Student @ **Unigran**.
+- 🎓 Law Graduate & Software Engineering Student @ **Unigran**.
 - 🚀 **Rocketseat** Alumni focused on **Back-End** & **Database Architecture**.
 - 💡 I like building robust, well-structured systems and exploring the ecosystem on my own.
 
